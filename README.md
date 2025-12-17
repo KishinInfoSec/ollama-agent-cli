@@ -45,7 +45,7 @@ ollama pull neural-chat     # Good for chat
 ### 3. Install the CLI Tool
 
 ```bash
-cd /home/alex/opencti/ollama-agent-cli
+cd /path/to/dir
 
 # Option A: Development installation
 pip install -e .

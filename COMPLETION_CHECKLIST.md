@@ -274,7 +274,7 @@
 
 ### Starting the Agent
 ```bash
-cd /home/alex/opencti/ollama-agent-cli
+cd /path/to/dir
 source venv/bin/activate
 ollama-agent interactive --model llama2
 ```

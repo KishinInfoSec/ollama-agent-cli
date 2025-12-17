@@ -51,7 +51,7 @@ This downloads the model (~4-7 GB depending on choice). First pull will take a f
 ## Step 4: Install the CLI Tool
 
 ```bash
-cd /home/alex/opencti/ollama-agent-cli
+cd /path/to/dir
 
 # Automated setup
 bash quick_start.sh

@@ -111,7 +111,7 @@ console.print(chunk, end="")
 ```
 
 **Files Modified**:
-- `/home/alex/opencti/ollama-agent-cli/src/ollama_agent/cli.py` (2 locations)
+- `/path/to/dir/ollama_agent/cli.py` (2 locations)
 
 **Testing**: ✅ CLI now runs successfully without errors
 

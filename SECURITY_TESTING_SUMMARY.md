@@ -161,7 +161,7 @@ To verify everything works, run:
 
 ```bash
 # Activate virtual environment
-cd /home/alex/opencti/ollama-agent-cli
+cd /path/to/dir
 source venv/bin/activate
 
 # Run tests

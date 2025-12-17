@@ -18,7 +18,7 @@
 ollama serve
 
 # 2. Install (in terminal 2)
-cd /home/alex/opencti/ollama-agent-cli
+cd /path/to/dir
 bash quick_start.sh
 
 # 3. Run (in terminal 3)

@@ -6,7 +6,7 @@ Thank you for your interest in contributing!
 
 ```bash
 # Clone and setup
-cd /home/alex/opencti/ollama-agent-cli
+cd /path/to/dir
 
 # Install in development mode with test dependencies
 pip install -e ".[dev]"

@@ -6,7 +6,7 @@
 
 ```bash
 # Automated setup (RECOMMENDED)
-cd /home/alex/opencti/ollama-agent-cli
+cd /path/to/dir
 bash quick_start.sh
 
 # OR manual setup
