@@ -19,7 +19,7 @@ A powerful command-line tool for interacting with Ollama models as a cybersecuri
 ## Prerequisites
 
 - Python 3.10+
-- [Ollama](https://ollama.ai/) installed and running locally
+- [Ollama](https://ollama.com/) installed and running locally
 - At least one model installed in Ollama (e.g., `ollama pull llama2`)
 
 ## Installation
